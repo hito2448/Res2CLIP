@@ -52,13 +52,12 @@ Adapters are trained separately on MVTec AD and VisA. Checkpoints are saved to `
 bash test_trainingfree.sh
 ```
 
-**Fine-tuned** (Res<sup>2</sup>CLIP<sup>†</sup>, cross-dataset):
+**Fine-tuned** (Res<sup>2</sup>CLIP<sup>†</sup>):
 
 ```bash
 bash test_finetune.sh
 ```
 
-Results (CSV + log) are written to `./results/`.
 
 ---
 
