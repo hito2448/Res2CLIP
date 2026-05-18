@@ -68,7 +68,13 @@ We thank [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) for their open-sou
 ---
 
 ## Citation
+If you think this work is helpful to you, please consider citing our paper.
 
 ```bibtex
-
+@article{liu2026res2clip,
+  title={Res$^2$CLIP: Few-Shot Generalist Anomaly Detection with Residual-to-Residual Alignment},
+  author={Liu, Xinyue and Wang, Jianyuan and Leng, Biao and Zhang, Shuo},
+  journal={arXiv preprint arXiv:2605.16171},
+  year={2026}
+}
 ```
